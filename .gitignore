@@ -1,0 +1,11 @@
+*.pyc
+include/*
+.idea/*
+pip-selfcheck.json
+lib/*
+bin/*
+football_data/db.sqlite3
+*/api/__pycache__/
+*/api/migrations/
+*/football_data/__pycache__/
+*/football_data/settings.py
